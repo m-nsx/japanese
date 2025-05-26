@@ -1,0 +1,458 @@
+{
+  "7": [
+    {
+      "japanese": "きります",
+      "french": [
+        "couper",
+        "découper"
+      ]
+    },
+    {
+      "japanese": "おくります",
+      "french": [
+        "envoyer"
+      ]
+    },
+    {
+      "japanese": "あげます",
+      "french": [
+        "donner",
+        "offrir"
+      ]
+    },
+    {
+      "japanese": "もらいます",
+      "french": [
+        "recevoir"
+      ]
+    },
+    {
+      "japanese": "かします",
+      "french": [
+        "prêter",
+        "louer"
+      ]
+    },
+    {
+      "japanese": "かります",
+      "french": [
+        "emprunter"
+      ]
+    },
+    {
+      "japanese": "おしえます",
+      "french": [
+        "enseigner"
+      ]
+    },
+    {
+      "japanese": "ならいます",
+      "french": [
+        "apprendre"
+      ]
+    },
+    {
+      "japanese": "かけます",
+      "french": [
+        "passer"
+      ]
+    },
+    {
+      "japanese": "でんわをかけます",
+      "french": [
+        "téléphoner"
+      ]
+    },
+    {
+      "japanese": "て",
+      "french": [
+        "main"
+      ]
+    },
+    {
+      "japanese": "はし",
+      "french": [
+        "baguettes",
+        "(pour manger)"
+      ]
+    },
+    {
+      "japanese": "スプーン",
+      "french": [
+        "cuillère"
+      ]
+    },
+    {
+      "japanese": "ナイフ",
+      "french": [
+        "couteau"
+      ]
+    },
+    {
+      "japanese": "フォーク",
+      "french": [
+        "fourchette"
+      ]
+    },
+    {
+      "japanese": "はさみ",
+      "french": [
+        "ciseaux"
+      ]
+    },
+    {
+      "japanese": "パソコン",
+      "french": [
+        "ordinateur portable"
+      ]
+    },
+    {
+      "japanese": "ケータイ",
+      "french": [
+        "téléphone portable",
+        "smartphone"
+      ]
+    },
+    {
+      "japanese": "メイル",
+      "french": [
+        "mail",
+        "courriel",
+        "courrier électronique",
+        "email"
+      ]
+    },
+    {
+      "japanese": "ねんがじょう",
+      "french": [
+        "carte de voeux du nouvel an",
+        "carte de voeux"
+      ]
+    },
+    {
+      "japanese": "パンチ",
+      "french": [
+        "perforatrice"
+      ]
+    },
+    {
+      "japanese": "ホッチキス",
+      "french": [
+        "agrafeuse"
+      ]
+    },
+    {
+      "japanese": "セロテープ",
+      "french": [
+        "ruban adhésif",
+        "bande adhésive",
+        "scotch"
+      ]
+    },
+    {
+      "japanese": "けしゴム",
+      "french": [
+        "gomme"
+      ]
+    },
+    {
+      "japanese": "かみ",
+      "french": [
+        "papier",
+        "feuille"
+      ]
+    },
+    {
+      "japanese": "はな",
+      "french": [
+        "fleur"
+      ]
+    },
+    {
+      "japanese": "シャツ",
+      "french": [
+        "chemise"
+      ]
+    },
+    {
+      "japanese": "プレゼント",
+      "french": [
+        "cadeau"
+      ]
+    },
+    {
+      "japanese": "にもつ",
+      "french": [
+        "bagage"
+      ]
+    },
+    {
+      "japanese": "おかね",
+      "french": [
+        "argent",
+        "monnaie"
+      ]
+    },
+    {
+      "japanese": "きっぷ",
+      "french": [
+        "ticket",
+        "billet"
+      ]
+    },
+    {
+      "japanese": "クリスマス",
+      "french": [
+        "noël"
+      ]
+    },
+    {
+      "japanese": "ちち",
+      "french": [
+        "père",
+        "mon père"
+      ]
+    },
+    {
+      "japanese": "はは",
+      "french": [
+        "mère",
+        "ma mère"
+      ]
+    },
+    {
+      "japanese": "おとうさん",
+      "french": [
+        "père",
+        "(de quelqu'un d'autre)"
+      ]
+    },
+    {
+      "japanese": "おかあさん",
+      "french": [
+        "mère",
+        "(de quelqu'un d'autre)"
+      ]
+    },
+    {
+      "japanese": "もう",
+      "french": [
+        "déjà"
+      ]
+    },
+    {
+      "japanese": "まだ",
+      "french": [
+        "pas encore",
+        "encore"
+      ]
+    },
+    {
+      "japanese": "これから",
+      "french": [
+        "maintenant",
+        "dès maintenant"
+      ]
+    },
+    {
+      "japanese": "いらっしゃい",
+      "french": [
+        "bonjour",
+        "(litt. bienvenue)"
+      ]
+    },
+    {
+      "japanese": "どうぞおあがりください",
+      "french": [
+        "entrez je vous en prie",
+        "entrez"
+      ]
+    },
+    {
+      "japanese": "しつれいします",
+      "french": [
+        "excusez moi",
+        "excusez moi de vous déranger",
+        "(litt. je vais vous déranger)"
+      ]
+    },
+    {
+      "japanese": "～はいかがですか",
+      "french": [
+        "que diriez vous de ~"
+      ]
+    },
+    {
+      "japanese": "スペイン",
+      "french": [
+        "espagne"
+      ]
+    },
+    {
+      "japanese": "ごちそうさまでした",
+      "french": [
+        "merci du repas",
+        "merci pour le repas"
+      ]
+    }
+  ],
+  "8": [
+    {
+      "japanese": "さくら",
+      "french": [
+        "cerisier",
+        "fleur de cerisier"
+      ]
+    },
+    {
+      "japanese": "やま",
+      "french": [
+        "montagne"
+      ]
+    },
+    {
+      "japanese": "まち",
+      "french": [
+        "ville",
+        "bourg",
+        "quartier"
+      ]
+    },
+    {
+      "japanese": "たべもの",
+      "french": [
+        "nourriture",
+        "aliment"
+      ]
+    },
+    {
+      "japanese": "ところ",
+      "french": [
+        "endroit"
+      ]
+    },
+    {
+      "japanese": "りょう",
+      "french": [
+        "résidence",
+        "pension",
+        "internat"
+      ]
+    },
+    {
+      "japanese": "レストラン",
+      "french": [
+        "restaurant"
+      ]
+    },
+    {
+      "japanese": "せいかつ",
+      "french": [
+        "vie",
+        "vie quotidienne"
+      ]
+    },
+    {
+      "japanese": "しごと",
+      "french": [
+        "travail",
+        "métier"
+      ]
+    },
+    {
+      "japanese": "しごとをします",
+      "french": [
+        "travailler"
+      ]
+    },
+    {
+      "japanese": "どう",
+      "french": [
+        "comment"
+      ]
+    },
+    {
+      "japanese": "どんあ～",
+      "french": [
+        "quel genre de ~",
+        "quel ~"
+      ]
+    },
+    {
+      "japanese": "とても",
+      "french": [
+        "très"
+      ]
+    },
+    {
+      "japanese": "あまり",
+      "french": [
+        "pas très",
+        "(utilisé avec la forme négative)"
+      ]
+    },
+    {
+      "japanese": "そして",
+      "french": [
+        "et",
+        "(pour relier des phrases)"
+      ]
+    },
+    {
+      "japanese": "おげんきですか",
+      "french": [
+        "comment allez-vous ?"
+      ]
+    },
+    {
+      "japanese": "そうですね",
+      "french": [
+        "et bien",
+        "voyons",
+        "euh"
+      ]
+    },
+    {
+      "japanese": "いいえ、けっこうです",
+      "french": [
+        "non merci"
+      ]
+    },
+    {
+      "japanese": "そろそろしつれいします",
+      "french": [
+        "je vais bientôt partir"
+      ]
+    },
+    {
+      "japanese": "またいらっしゃってください",
+      "french": [
+        "revenez nous voir"
+      ]
+    },
+    {
+      "japanese": "シャンがい",
+      "french": [
+        "shangai"
+      ]
+    },
+    {
+      "japanese": "きんかくじ",
+      "french": [
+        "temple kinkakuji"
+      ]
+    },
+    {
+      "japanese": "ならこうえん",
+      "french": [
+        "parc nara"
+      ]
+    },
+    {
+      "japanese": "ふじさん",
+      "french": [
+        "mont fuji"
+      ]
+    }
+  ]
+}
